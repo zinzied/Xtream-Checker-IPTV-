@@ -1,5 +1,7 @@
 # Xtream-IPTV Account Checker & Combo Generator
 
+![image](https://github.com/user-attachments/assets/b09793ea-3c49-4044-8d36-e43fbb8e063e)
+
 A Python-based educational tool built with PyQt5 for checking IPTV account credentials and generating combinations.
 
 ## 🚀 Features
