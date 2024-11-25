@@ -76,3 +76,7 @@ MIT License - For educational use only.
 
 ---
 Created for educational demonstration using PyQt5 and Python
+### Donations
+If you feel like showing your love and/or appreciation for this project, then how about shouting me a coffee or Milk :)
+
+[<img src="https://github.com/zinzied/Website-login-checker/assets/10098794/24f9935f-3637-4607-8980-06124c2d0225">](https://www.buymeacoffee.com/Zied)
